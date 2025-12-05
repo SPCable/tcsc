@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "paths": [
+          "*"
+        ],
+        "appID": "P2F56HY4CG.com.tcsc.vn.mobiletrading"
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "P2F56HY4CG.com.tcsc.vn.mobiletrading.Clip"
+    ]
+  }
+}
